@@ -12,7 +12,7 @@
       }
       array_push($array,$n);
     }
-    if (count($array)==3)
+    if (count($array)==15)
     {
         $array2 = [];
         for ($i=0;$i<count($array);$i++)
